@@ -34,7 +34,7 @@ class AutoplayPermissionTest extends BrowserTestBase {
     // Ensure an anonymous user gets autoplay.
     $this->drupalLogout();
     $this->drupalGet('node/' . $node->id());
-    $this->assertSession()->elementAttributeContains('css', 'iframe', 'src', 'autoplay=1');
+    $this->assertSession()->elementAttributeContains('css', 'iframe', 'src', 'autoplay=0');
   }
 
 }

@@ -526,5 +526,30 @@
 #block-videos .field__item iframe{
   margin-right:40px;
   margin-top:10px;
+}
+.field__label{
+  display:none;
+}
+.field--name-field-picture{
+  text-align: center;
+}
+
+.video-embed-field-responsive-video{ /*changes video margins*/
+  margin-bottom:50px;
+}
+.media__image{
+  height: 120px;
+  width: 65%;
+  display: block;
+  margin: auto;
 
 }
+.slick__arrow{
+  text-align: center;
+  padding-top:5px;
+  padding-right:2px;
+}
+.silk-next .silk-prev{
+  background-color:#9d89b7;
+}
+

@@ -2875,61 +2875,6 @@
         ]
     },
     {
-        "name": "embed/embed",
-        "version": "v3.1.0",
-        "version_normalized": "3.1.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/oscarotero/Embed.git",
-            "reference": "8d9e862f46eebbf75454358c18822154e6e2b0ca"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/oscarotero/Embed/zipball/8d9e862f46eebbf75454358c18822154e6e2b0ca",
-            "reference": "8d9e862f46eebbf75454358c18822154e6e2b0ca",
-            "shasum": ""
-        },
-        "require": {
-            "composer/ca-bundle": "^1.0",
-            "ext-curl": "*",
-            "ext-mbstring": "*",
-            "php": "^5.5|^7.0"
-        },
-        "require-dev": {
-            "friendsofphp/php-cs-fixer": "^2.0",
-            "phpunit/phpunit": "^4.8|^5.7"
-        },
-        "time": "2017-07-08T09:47:22+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Embed\\": "src"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Oscar Otero",
-                "email": "oom@oscarotero.com",
-                "homepage": "http://oscarotero.com",
-                "role": "Developer"
-            }
-        ],
-        "description": "PHP library to retrieve page info using oembed, opengraph, etc",
-        "homepage": "https://github.com/oscarotero/Embed",
-        "keywords": [
-            "embed",
-            "embedly",
-            "oembed",
-            "opengraph",
-            "twitter cards"
-        ]
-    },
-    {
         "name": "symfony/css-selector",
         "version": "v2.8.18",
         "version_normalized": "2.8.18.0",
@@ -4562,6 +4507,61 @@
             "phpunit",
             "testing",
             "xunit"
+        ]
+    },
+    {
+        "name": "embed/embed",
+        "version": "v3.1.0",
+        "version_normalized": "3.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/oscarotero/Embed.git",
+            "reference": "8d9e862f46eebbf75454358c18822154e6e2b0ca"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/oscarotero/Embed/zipball/8d9e862f46eebbf75454358c18822154e6e2b0ca",
+            "reference": "8d9e862f46eebbf75454358c18822154e6e2b0ca",
+            "shasum": ""
+        },
+        "require": {
+            "composer/ca-bundle": "^1.0",
+            "ext-curl": "*",
+            "ext-mbstring": "*",
+            "php": "^5.5|^7.0"
+        },
+        "require-dev": {
+            "friendsofphp/php-cs-fixer": "^2.0",
+            "phpunit/phpunit": "^4.8|^5.7"
+        },
+        "time": "2017-07-08T09:47:22+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Embed\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Oscar Otero",
+                "email": "oom@oscarotero.com",
+                "homepage": "http://oscarotero.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "PHP library to retrieve page info using oembed, opengraph, etc",
+        "homepage": "https://github.com/oscarotero/Embed",
+        "keywords": [
+            "embed",
+            "embedly",
+            "oembed",
+            "opengraph",
+            "twitter cards"
         ]
     }
 ]
