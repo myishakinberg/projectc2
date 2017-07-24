@@ -13,5 +13,21 @@ jQuery(document).ready(function($) {
         }
       }
     });
-  });
+    //  alert("working");
+
+      $(".field--name-field-blogs iframe").each(function(){
+              var src = $(this).attr("src");
+          $("<a class='my-links' href='" + src + "'>Links</a>").insertBefore($(this));
+          });
+      $(".my-links").magnificPopup({
+          type:"iframe"
+
+      });
+
+          $(".field--name-field-blogs iframe").magnificPopup({
+            type:"iframe",
+            src:$(this).attr("src")
+
+        });
+    });
 });

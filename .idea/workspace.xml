@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/differences.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/gramma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/hair-done.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/types_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/inline-images/hair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/inline-images/types.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/differences.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/gramma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/hair-done.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/types_0.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/video_embed_field/tests/src/Functional/AutoplayPermissionTest.php" afterPath="$PROJECT_DIR$/modules/video_embed_field/tests/src/Functional/AutoplayPermissionTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js" afterPath="$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +27,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="552" column="12" lean-forward="false" selection-start-line="552" selection-start-column="12" selection-end-line="552" selection-end-column="12" />
+            <state relative-caret-position="544">
+              <caret line="560" column="17" lean-forward="true" selection-start-line="560" selection-start-column="17" selection-end-line="560" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup-field-image-init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="field--block-content--field-blogs.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/field--block-content--field-blogs.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,14 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>field-it</find>
-      <find>field-i</find>
-      <find>field--it</find>
-      <find>field--i</find>
-      <find>field--</find>
-      <find>field-</find>
-      <find>field</find>
-      <find>p</find>
       <find>pro</find>
       <find>provi</find>
       <find>prov</find>
@@ -62,11 +83,19 @@
       <find>data-url-provid</find>
       <find>data-url-provide</find>
       <find>data-url-provider</find>
+      <find>m</find>
+      <find>magnific</find>
+      <find>magnificp</find>
+      <find>magnificpo</find>
+      <find>magnificpop</find>
+      <find>showcase_</find>
+      <find>i</find>
+      <find>iframe</find>
     </findStrings>
     <dirStrings>
+      <dir>$PROJECT_DIR$/modules</dir>
       <dir>$PROJECT_DIR$/themes/showcase_lite</dir>
       <dir>$PROJECT_DIR$/modules/url_embed</dir>
-      <dir>$PROJECT_DIR$/modules</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -86,6 +115,8 @@
         <option value="$PROJECT_DIR$/core/themes/bartik/css/components/node.css" />
         <option value="$PROJECT_DIR$/modules/video_embed_field/tests/src/Functional/AutoplayPermissionTest.php" />
         <option value="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/templates/field--block-content--field-blogs.html.twig" />
       </list>
     </option>
   </component>
@@ -103,9 +134,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="29" />
-    <option name="width" value="1216" />
+    <option name="x" value="404" />
+    <option name="y" value="23" />
+    <option name="width" value="1138" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -125,7 +156,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,7 +178,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="showcase_lite" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -165,18 +213,29 @@
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="url_embed" />
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="slick &#9;null&#9;null&#10;slick-dot&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/modules/slick/tests/modules/slick_test/css/slick.theme--dots.css&#10;autoplay&#9;null&#9;null&#10;AUTOPLAY&#9;null&#9;null&#10;A&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/modules/video_embed_field/video_embed_field.api.php&#10;hook_preprocess_video_embed&#9;null&#9;null&#10;hook_prep&#9;null&#9;null&#10;video-embed-field-responsive-video&#9;null&#9;null&#10;video-embed-responsive-v&#9;null&#9;null&#10;field__label&#9;null&#9;null&#10;field__labe&#9;null&#9;null&#10;iframe&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/core/modules/ckeditor/css/ckeditor-iframe.css&#10;node__lin&#9;null&#9;null&#10;node__link&#9;null&#9;null&#10;contex&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/core/themes/bartik/css/components/contextual.css" />
+    <property name="SearchEverywhereHistoryKey" value="iframe&#9;null&#9;null&#10;slick &#9;null&#9;null&#10;slick-dot&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/modules/slick/tests/modules/slick_test/css/slick.theme--dots.css&#10;autoplay&#9;null&#9;null&#10;AUTOPLAY&#9;null&#9;null&#10;A&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/modules/video_embed_field/video_embed_field.api.php&#10;hook_preprocess_video_embed&#9;null&#9;null&#10;hook_prep&#9;null&#9;null&#10;video-embed-field-responsive-video&#9;null&#9;null&#10;video-embed-responsive-v&#9;null&#9;null&#10;field__label&#9;null&#9;null&#10;field__labe&#9;null&#9;null&#10;node__lin&#9;null&#9;null&#10;node__link&#9;null&#9;null&#10;contex&#9;FILE&#9;file:///Users/myishakinberg/Sites/projectc/core/themes/bartik/css/components/contextual.css" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -282,18 +341,22 @@
       <workItem from="1500480904438" duration="66000" />
       <workItem from="1500486578528" duration="2632000" />
       <workItem from="1500495578920" duration="1264000" />
-      <workItem from="1500568014671" duration="11228000" />
+      <workItem from="1500568014671" duration="11835000" />
+      <workItem from="1500651783258" duration="6741000" />
+      <workItem from="1500663206423" duration="165000" />
+      <workItem from="1500663476064" duration="6000" />
+      <workItem from="1500663591633" duration="4843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22739000" />
+    <option name="totallyTimeSpent" value="35101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="29" width="1216" height="797" extended-state="0" />
+    <frame x="404" y="23" width="1138" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2759227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,43 +428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/node.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/comment.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/node.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/video_embed_field/css/video_embed_field.responsive-video.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="49" column="755" lean-forward="false" selection-start-line="49" selection-start-column="755" selection-end-line="49" selection-end-column="755" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -597,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
           <caret line="96" column="15" lean-forward="true" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10289">
           <caret line="550" column="9" lean-forward="false" selection-start-line="550" selection-start-column="9" selection-end-line="550" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="89" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="89" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +680,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
             <caret line="23" column="182" lean-forward="false" selection-start-line="23" selection-start-column="182" selection-end-line="23" selection-end-column="182" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -672,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,14 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/embed/embed/src/Adapters/Adapter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/url_embed/src/Form/UrlEmbedDialog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -716,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,14 +730,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4724">
           <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/embed/embed/src/Adapters/Adapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/classy/templates/field/field.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="79" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" column="15" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/magnific-popup/jquery.magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4908">
+          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/assets/vendor/ckeditor/ckeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="52" column="196" lean-forward="false" selection-start-line="52" selection-start-column="196" selection-end-line="52" selection-end-column="196" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="552" column="12" lean-forward="false" selection-start-line="552" selection-start-column="12" selection-end-line="552" selection-end-column="12" />
+        <state relative-caret-position="544">
+          <caret line="560" column="17" lean-forward="true" selection-start-line="560" selection-start-column="17" selection-end-line="560" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/field--block-content--field-blogs.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
