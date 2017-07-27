@@ -6,7 +6,10 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "~1.4",
-        "embed/embed": "^3.1"
+        "embed/embed": "^3.1",
+        "geoip2/geoip2": "~2.0",
+        "ip2location/ip2location-php": "~8.0",
+        "phayes/geophp": "^1.2"
     },
     "replace": {
         "drupal/core": "~8.3"

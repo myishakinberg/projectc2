@@ -560,3 +560,20 @@
   display: flex;
   flex-wrap:wrap;
 }
+.slick__slide { /*allows text below hair chart to be centered */
+  text-align: center;
+}
+.slick__slide:hover{ /*allows text below hair chart to switch colors and become bold when hovered on */
+  color: purple;
+  font-weight: bold;
+}
+.field--name-field-popup-picture .field__item { /*centers pictures that are popups i.e. tips*/
+ text-align: center;
+}
+.field--name-field-map .field__items{ /*display maps horizontally*/
+  display: flex;
+  flex-wrap:wrap;
+}
+.field--name-field-map .field__item {
+  padding-right:10px;
+}

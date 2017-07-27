@@ -1,0 +1,7 @@
+custom_map:
+  version: VERSION
+  js:
+    js/map.js: {}
+  css:
+    theme:
+      css/custom_map.css: {}

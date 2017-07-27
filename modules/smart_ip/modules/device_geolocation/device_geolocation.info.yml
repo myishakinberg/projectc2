@@ -1,0 +1,12 @@
+name: Device Geolocation
+type: module
+description: Provides visitor's geographical location using client device location source that implements W3C Geolocation API and Google Geocoding service.
+package: Location
+configure: smart_ip.settings
+# version: VERSION
+# core: 8.x
+# Information added by Drupal.org packaging script on 2016-08-22
+version: '8.x-3.1'
+core: '8.x'
+project: 'smart_ip'
+datestamp: 1471833859

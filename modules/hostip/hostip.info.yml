@@ -1,0 +1,11 @@
+name: Hostip
+description: 'Queries the hostip.info api to show the country / state info. to user based on the user''s ip'
+# core: 8.x
+type: module
+configure: hostip.admin_settings
+
+# Information added by Drupal.org packaging script on 2016-02-15
+version: '8.x-1.0-alpha12'
+core: '8.x'
+project: 'hostip'
+datestamp: 1455539040

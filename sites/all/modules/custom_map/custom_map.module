@@ -1,0 +1,10 @@
+<?php
+function custom_map_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+{
+    if ($form_id == "contact_message_test_form") {
+       $form['#attached']['library'][] = "custom_map/custom_map";
+
+
+    }
+}
+

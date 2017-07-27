@@ -1,0 +1,105 @@
+<?php
+
+/**
+ * @file
+ * Provides visitor's geographical location using client device location source
+ * that implements W3C Geolocation API and Google Geocoding service.
+ *
+ * @author Roland Michael dela Peña.
+ */
+
+use Drupal\device_geolocation\DeviceGeolocation;
+use Drupal\device_geolocation\EventSubscriber\SmartIpEventSubscriber;
+use Drupal\smart_ip\SmartIpLocationInterface;
+use Drupal\Component\Utility\Unicode;
+
+/**
+ * Implements hook_theme().
+ */
+function device_geolocation_theme() {
+  return array(
+    'device_geolocation_visitor_info' => array(
+      'variables' => ['location' => []],
+    ),
+  );
+}
+
+/**
+ * Prepares variables for visitor's geolocation block templates.
+ *
+ * Default template: device-geolocation-visitor-info.html.twig.
+ *
+ * @param array $variables
+ */
+function template_preprocess_device_geolocation_visitor_info(&$variables) {
+  $blockData = [];
+  foreach ($variables['location'] as $label => $value) {
+    if (!empty($value) && $label != 'regionCode' && $label != 'originalData' && $label != 'ipVersion') {
+      if ($label == 'source') {
+        switch ($value) {
+          case SmartIpLocationInterface::GEOCODED_SMART_IP:
+            $value = t('Google Map Geocoded Smart IP coordinates');
+            break;
+          case SmartIpLocationInterface::W3C:
+            $value = t('Geocoded W3C coordinates');
+            break;
+          default:
+            $value = t('Smart IP geolocation');
+            break;
+        }
+      }
+      if ($label == 'timestamp') {
+        $value = \Drupal::service('date.formatter')->format($value, 'long');
+      }
+      $label = preg_replace('/(?<=\\w)(?=[A-Z])/'," $1", $label);
+      $label = str_replace('_', ' ', $label);
+      $label = Unicode::ucwords(Unicode::strtolower($label));
+      $blockData[$label] = $value;
+    }
+  }
+  $variables['location'] = $blockData;
+}
+
+/**
+ * Implements hook_page_attachments().
+ */
+function device_geolocation_page_attachments(array &$page) {
+  if (!\Drupal\smart_ip\SmartIp::checkAllowedPage()) {
+    // This page is not on the list to access user's geolocation
+    return;
+  }
+
+  $config = \Drupal::config(SmartIpEventSubscriber::configName());
+  $useAjaxCheck = $config->get('use_ajax_check');
+  if ($useAjaxCheck || DeviceGeolocation::isNeedUpdate()) {
+    /** @var \Drupal\smart_ip\SmartIpLocation $location */
+    $location = \Drupal::service('smart_ip.smart_ip_location');
+    // Send current user's geolocation to javascript.
+    $page['#attached']['drupalSettings']['device_geolocation'] = $location->getData();
+    $debugMode = \Drupal::config('smart_ip.settings')->get('debug_mode');
+    $page['#attached']['drupalSettings']['device_geolocation']['debugMode'] = $debugMode;
+    if ($useAjaxCheck) {
+      // Add javascript app that checks if device geolocation needs refresh via
+      // ajax call.
+      $page['#attached']['library'][] = 'device_geolocation/drupal.device_geolocation.check';
+      $page['#attached']['drupalSettings']['device_geolocation']['askGeolocate'] = FALSE;
+    }
+    else {
+      $page['#attached']['drupalSettings']['device_geolocation']['askGeolocate'] = TRUE;
+    }
+    $apiKey = $config->get('google_map_api_key');
+    $page['#attached']['html_head'][] = [
+      [
+        '#type' => 'html_tag',
+        '#tag'  => 'script',
+        '#attributes' => [
+          'src'   => "//maps.googleapis.com/maps/api/js?key=$apiKey",
+          'async' => TRUE,
+          'defer' => TRUE,
+        ],
+      ],
+      'device_geolocation_google_map_lib',
+    ];
+    $page['#attached']['library'][] = 'device_geolocation/drupal.device_geolocation.core';
+  }
+}
