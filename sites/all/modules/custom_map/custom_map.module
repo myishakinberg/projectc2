@@ -3,6 +3,8 @@ function custom_map_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $for
 {
     if ($form_id == "contact_message_test_form") {
        $form['#attached']['library'][] = "custom_map/custom_map";
+       $form['actions']['preview']['#access'] = FALSE;
+       $form['actions']['submit']['#value'] = t('Notify Project C');
 
 
     }

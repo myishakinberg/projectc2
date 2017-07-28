@@ -2,7 +2,6 @@ name: Custom Map Module
 description: 'Allows users to notify me when they want to create a new drop off site and updates custom map with dropoff sites.'
 package: Custom
 dependencies:
-  - hostip
   - leaflet
 
 type: module

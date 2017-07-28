@@ -577,3 +577,9 @@
 .field--name-field-map .field__item {
   padding-right:10px;
 }
+#block-dontseeadonationcenternearyou .field--name-body{/* makes less space below block on product donations page*/
+  margin-bottom: -70px;
+}
+.form-actions{
+  text-align: center;
+}
