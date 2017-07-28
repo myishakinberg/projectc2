@@ -580,6 +580,25 @@
 #block-dontseeadonationcenternearyou .field--name-body{/* makes less space below block on product donations page*/
   margin-bottom: -70px;
 }
-.form-actions{
+.form-actions{ /*centers notify button*/
   text-align: center;
 }
+.pager{ /*hides the next and previous button on map */
+  display:none;
+}
+.views-field-field-name-1{ /*hides name from map popup*/
+  display:none;
+}
+
+.location-title{
+  font-size: 16px;
+}
+
+.field--name-field-cpictures .field__items{
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.field--name-field-cpictures .field__item {
+  padding-left: 30px;
+  }
