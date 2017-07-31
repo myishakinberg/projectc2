@@ -42,6 +42,8 @@
     'title'
   ]
 %}
+{{ content['#entity'].bundle }}
+
 <div{{ attributes.addClass(classes) }}>
   {{ title_prefix }}
   {% if label %}

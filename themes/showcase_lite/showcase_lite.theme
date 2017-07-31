@@ -730,6 +730,10 @@ function showcase_lite_preprocess_node__article(&$variables) {
 function showcase_lite_preprocess_block(&$variables) {
   // Add a clearfix class to blocks.
   $variables['attributes']['class'][] = 'clearfix';
+
+   if (isset($variables['elements']['content']['#block_content'])) {
+       $variables['attributes']['class'][] = $variables['elements']['content']['#block_content']->bundle();
+     }
 }
 
 /**

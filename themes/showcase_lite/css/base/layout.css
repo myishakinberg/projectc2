@@ -79,16 +79,17 @@
 .content-top__section {
   padding: 12px 0 15px;
 }
-.content-top-highlighted__section {
+.content-top-highlighted__section { /*Changes text color/placement of intro text*/
   padding: 120px 0;
   text-align: right;
   text-shadow: 2px 2px #4B0082;
   font-size: 22px;
   color: #9d89b7;
+  margin-bottom: -10px;
 }
 .content-top-highlighted {
   background-size: cover;
-  background-image: url("/images/background-hf.png");
+  background-image: url("/images/group-background.jpg");
 }
 .media-background {
   position: relative;
@@ -541,6 +542,7 @@
   width: 65%;
   display: block;
   margin: auto;
+
 }
 .slick__arrow{ /*changes the location of carousel prev and next arrows*/
   text-align: center;
@@ -590,15 +592,28 @@
   display:none;
 }
 
-.location-title{
+.location-title{/*makes size of location names on map smaller*/
   font-size: 16px;
 }
 
-.field--name-field-cpictures .field__items{
+.field--name-field-cpictures .field__items{ /*makes pictures in hair chart appear correct*/
   display:flex;
   flex-wrap:wrap;
 }
 
-.field--name-field-cpictures .field__item {
+.field--name-field-cpictures .field__item { /*makes pictures in hair chart appear correct*/
   padding-left: 30px;
   }
+
+.field--name-body .align-left{
+  padding-right:20px;
+}
+
+.image_description .content {
+  display:flex;
+}
+
+.image_description .content .media__image {
+  width: 500px;
+  padding-right: 20px;
+}
