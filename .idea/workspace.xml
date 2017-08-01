@@ -2,15 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1512_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1512_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/Group-shot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1512_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1514_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/hair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/myisha1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/inline-images/DSC_3910.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/inline-images/Debra-front.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/2017-07/Screen Shot 2017-07-31 at 1.34.29 PM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_/private/2017-07/Debra-front.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_/private/2017-07/Debra-side.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_size_2_/private/2017-07/Debra-front.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_size_2_/private/2017-07/Screen Shot 2017-07-31 at 1.34.29 PM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/thumbnail/private/2017-07/Screen Shot 2017-07-31 at 1.34.29 PM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/Group-shot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1512_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1514_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/myisha1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/Group-shot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/large/public/2017-07/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/large/public/2017-07/hair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/medium/public/2017-07/IMG_1513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/medium/public/2017-07/hair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1512_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1514_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/hair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/myisha1_0.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js" afterPath="$PROJECT_DIR$/themes/showcase_lite/js/init/magnific-popup-field-image-init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.theme" afterPath="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.theme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/templates/block.html.twig" afterPath="$PROJECT_DIR$/themes/showcase_lite/templates/block.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/templates/field--block-content--field-blogs.html.twig" afterPath="$PROJECT_DIR$/themes/showcase_lite/templates/field--block-content--field-blogs.html.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +50,8 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="615" column="36" lean-forward="false" selection-start-line="615" selection-start-column="36" selection-end-line="615" selection-end-column="36" />
+            <state relative-caret-position="245">
+              <caret line="567" column="85" lean-forward="false" selection-start-line="567" selection-start-column="85" selection-end-line="567" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -36,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/block.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="353">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,8 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>data-url-pro</find>
-      <find>data-url-prov</find>
       <find>data-url-provi</find>
       <find>data-url-provid</find>
       <find>data-url-provide</find>
@@ -93,6 +116,8 @@
       <find>my</find>
       <find>m</find>
       <find>preprocess_bl</find>
+      <find>slick</find>
+      <find>display</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/modules</dir>
@@ -154,7 +179,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
+    <option name="x" value="35" />
     <option name="y" value="23" />
     <option name="width" value="1277" />
     <option name="height" value="797" />
@@ -373,15 +398,15 @@
       <workItem from="1501172669203" duration="4160000" />
       <workItem from="1501264117187" duration="2237000" />
       <workItem from="1501516648144" duration="1385000" />
-      <workItem from="1501520018526" duration="4371000" />
+      <workItem from="1501520018526" duration="12898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70456000" />
+    <option name="totallyTimeSpent" value="78983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="23" width="1277" height="797" extended-state="0" />
+    <frame x="35" y="23" width="1277" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18637432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -798,7 +823,7 @@
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/block.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -813,8 +838,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="615" column="36" lean-forward="false" selection-start-line="615" selection-start-column="36" selection-end-line="615" selection-end-column="36" />
+        <state relative-caret-position="245">
+          <caret line="567" column="85" lean-forward="false" selection-start-line="567" selection-start-column="85" selection-end-line="567" selection-end-column="85" />
           <folding />
         </state>
       </provider>

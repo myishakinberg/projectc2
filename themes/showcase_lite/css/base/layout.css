@@ -509,16 +509,21 @@
   }
 
 }
-/*MAKES ITEMS APPEAR IN HORIZONTAL LINE*/
-.region--black-background .field__items {
+
+/*CHANGES STUFF ON PROFILE PAGE*/
+
+.region--black-background .field__items { /*may help display products correctly???*/
   margin-top: 10px;
   display: flex;
   flex-wrap: wrap;
-
 }
 .region--black-background .field__item { /*changes product and style pic layout*/
   padding:10px;
 }
+
+
+/*CHANGES VIDEO LAYOUT IN ALL AREAS*/
+
 #block-videos .field__item { /*makes videos appear horizontally*/
   display: flex;
   flex-wrap: wrap;
@@ -527,50 +532,50 @@
   margin-right:40px;
   margin-top:10px;
 }
-.field__label{ /*removes label from custom block types*/
-  display:none;
-}
-.field--name-field-picture{ /*centers custom picture block images*/
-  text-align: center;
-}
-
 .video-embed-field-responsive-video{ /*changes video margins*/
   margin-bottom:50px;
 }
-.media__image{
-  height: 120px;
-  width: 65%;
-  display: block;
-  margin: auto;
 
-}
+
+/*CHANGES ARROW STUFF FOR SLIDESHOW AND SLICK FIELDS*/
+
 .slick__arrow{ /*changes the location of carousel prev and next arrows*/
   text-align: center;
   padding-top:5px;
   padding-right:2px;
 }
-
-.field--name-field-blogs .field__items{ /*changes blog layout*/
-  display: flex;
-  flex-wrap:wrap;
+.slick__arrow:hover .slick-prev { /*on hover blocks change colors*/
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.slick__arrow:hover .slick-next { /*on hover blocks change colors*/
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 
-.featured-bottom__section{ /*changes space above blogs*/
-  padding-top:10px;
+
+/*CHANGES STUFF RELATED TO MAP AND NOTIFY BUTTON*/
+
+.pager{ /*hides the next and previous button on map */
+  display:none;
 }
-.hair-embed{
-  display: flex;
-  flex-wrap:wrap;
+.views-field-field-name { /*hides name from map popup*/
+  display:none;
 }
-.slick__slide { /*allows text below hair chart to be centered */
-  text-align: center;
+.views-field-field-lat-lon{ /*hides lat/lon from map popup*/
+  display:none;
 }
-.slick__slide:hover{ /*allows text below hair chart to switch colors and become bold when hovered on */
-  color: purple;
-  font-weight: bold;
+.views-field-field-website{ /*changes color of website on map to look like hyper link*/
+  color:blue;
+}
+.location-content .field-content{
+  padding-bottom: 5px;
+}
+.location-title{/*makes size of location names on map smaller*/
+  font-size: 16px;
 }
 .field--name-field-popup-picture .field__item { /*centers pictures that are popups i.e. tips*/
- text-align: center;
+  text-align: center;
 }
 .field--name-field-map .field__items{ /*display maps horizontally*/
   display: flex;
@@ -585,35 +590,98 @@
 .form-actions{ /*centers notify button*/
   text-align: center;
 }
-.pager{ /*hides the next and previous button on map */
-  display:none;
-}
-.views-field-field-name-1{ /*hides name from map popup*/
-  display:none;
-}
 
-.location-title{/*makes size of location names on map smaller*/
-  font-size: 16px;
-}
+
+/*CHANGES HAIR CHART PICTURES AND CAPTIONS*/
 
 .field--name-field-cpictures .field__items{ /*makes pictures in hair chart appear correct*/
   display:flex;
   flex-wrap:wrap;
 }
-
 .field--name-field-cpictures .field__item { /*makes pictures in hair chart appear correct*/
   padding-left: 30px;
-  }
-
-.field--name-body .align-left{
-  padding-right:20px;
+}
+.field--name-field-caption .field__items{ /*makes hair types in hair type chart appear correctly*/
+  display:flex;
+  flex-wrap:wrap;
+}
+.field--name-field-caption .field__item{ /*helps captions float in correct area*/
+  padding-left: 100px;
+}
+.field--name-field-caption .field__item:hover { /*allows text below hair chart to switch colors and become bold when hovered on */
+  color: purple;
+  font-weight: bold;
 }
 
-.image_description .content {
+
+/*CHANGES STUFF FOR ACTUAL HAIR TYPE PAGES (3 & 4) */
+
+.image_description .content { /*makes the hair type and picture flex*/
   display:flex;
 }
+.image_description .content .field--name-field-image { /*puts padding and sets min width for pics*/
+  padding-right: 10px;
+  min-width: 150px;
+}
+.image_description .content .field--name-field-image .field__item { /*hides all hair type pics*/
+  display: none;
+}
+.image_description .content .field--name-field-image .field__item:first-child { /*displays first pic*/
+  display: block;
+}
+.image_description .content .field--name-field-image .field__item:first-child:hover {/*changes color on hover*/
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
 
-.image_description .content .media__image {
-  width: 500px;
+
+/*CHANGES SLIDESHOW ON FRONT PAGE*/
+
+.slick--optionset--hair-type .slide__content .media__image{/*makes front page pics appear the correct size*/
+  min-height: 300px;
+  min-width: 375px;
+}
+
+
+/*CHANGES STUFF ON BLOG PAGE */
+.field--name-field-blog- .field__item:hover{
+  color: purple;
+  font-size: 16px;
+}
+.field--name-field-blogs .field__items{ /*changes blog layout*/
+  display: flex;
+  flex-wrap:wrap;
+}
+.field--name-field-blogs .field__item{ /*changes space above blogs*/
+  padding-left:20px;
+  padding-top:10px;
+}
+
+
+/*RANDOM SMALL CHANGES*/
+#block-allthingshair-2 .field--name-body .field__item { /*displays pages in flex*/
+  display:flex;
+}
+.field--name-body .align-left {
   padding-right: 20px;
+}
+.field__label{ /*removes label from custom block types*/
+  display:none;
+}
+.field--name-field-picture{ /*centers custom picture block images*/
+  text-align: center;
+}
+
+
+/*MISSING DESCRIPTION */
+
+.media__image{
+  height: 120px;
+  width: 65%;
+  display: block;
+  margin: auto;
+}
+.hair-embed{
+  display: flex;
+  flex-wrap:wrap;
 }
