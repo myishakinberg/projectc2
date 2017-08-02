@@ -565,7 +565,7 @@
 .views-field-field-lat-lon{ /*hides lat/lon from map popup*/
   display:none;
 }
-.views-field-field-website{ /*changes color of website on map to look like hyper link*/
+.views-field-field-website a{ /*changes color of website on map to look like hyper link*/
   color:blue;
 }
 .location-content .field-content{
@@ -644,7 +644,7 @@
 
 
 /*CHANGES STUFF ON BLOG PAGE */
-.field--name-field-blog- .field__item:hover{
+.field--name-field-blog- .field__item a:hover{
   color: purple;
   font-size: 16px;
 }
@@ -661,6 +661,7 @@
 /*RANDOM SMALL CHANGES*/
 #block-allthingshair-2 .field--name-body .field__item { /*displays pages in flex*/
   display:flex;
+  margin-bottom: -75px;
 }
 .field--name-body .align-left {
   padding-right: 20px;
@@ -671,7 +672,9 @@
 .field--name-field-picture{ /*centers custom picture block images*/
   text-align: center;
 }
-
+.menu .menu-item{
+  padding-left: 10px;
+}
 
 /*MISSING DESCRIPTION */
 
@@ -685,3 +688,4 @@
   display: flex;
   flex-wrap:wrap;
 }
+
