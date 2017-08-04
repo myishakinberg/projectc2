@@ -2,23 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/Group-shot_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1509_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-08/Taz-front 5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/2017-07/Debra-front.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/2017-07/Debra-side.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_size_2_/private/2017-07/Debra-side.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/thumbnail/private/2017-07/Debra-front.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/thumbnail/private/2017-07/Debra-side.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1509_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/IMG_1509_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/large/public/2017-07/Group-shot_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/large/public/2017-08/Taz-front 5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/Group-shot_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1509_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-08/Taz-front 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1505_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1509_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-08/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-08/Jordan-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-08/Jordan-front_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-08/Maya-front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/2017-08/Pilar-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/hair_carousle_size_2_/private/2017-08/Pilar-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/medium/private/2017-08/Pilar-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/thumbnail/private/2017-08/Pilar-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1505_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1509_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-08/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-08/Jordan-front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-08/Jordan-front_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-08/Maya-front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/IMG_1505_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/IMG_1509_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-08/FullSizeRender 5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-08/Jordan-front_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-08/Maya-front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1505_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1509_0.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +41,8 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="703" column="0" lean-forward="true" selection-start-line="703" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+            <state relative-caret-position="379">
+              <caret line="687" column="35" lean-forward="false" selection-start-line="687" selection-start-column="35" selection-end-line="687" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -394,15 +401,15 @@
       <workItem from="1501516648144" duration="1385000" />
       <workItem from="1501520018526" duration="14270000" />
       <workItem from="1501694603542" duration="1156000" />
-      <workItem from="1501712573547" duration="2869000" />
+      <workItem from="1501712573547" duration="3229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84380000" />
+    <option name="totallyTimeSpent" value="84740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1277" height="797" extended-state="1" />
+    <frame x="35" y="23" width="1277" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18637432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -830,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="703" column="0" lean-forward="true" selection-start-line="703" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+        <state relative-caret-position="379">
+          <caret line="687" column="35" lean-forward="false" selection-start-line="687" selection-start-column="35" selection-end-line="687" selection-end-column="35" />
           <folding />
         </state>
       </provider>
