@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="624" column="19" lean-forward="false" selection-start-line="624" selection-start-column="19" selection-end-line="624" selection-end-column="19" />
+              <caret line="624" column="15" lean-forward="false" selection-start-line="624" selection-start-column="15" selection-end-line="624" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -380,12 +379,12 @@
       <workItem from="1501520018526" duration="14270000" />
       <workItem from="1501694603542" duration="1156000" />
       <workItem from="1501712573547" duration="3355000" />
-      <workItem from="1502124440157" duration="396000" />
+      <workItem from="1502124440157" duration="533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85262000" />
+    <option name="totallyTimeSpent" value="85399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1277" height="797" extended-state="0" />
@@ -817,7 +816,7 @@
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="624" column="19" lean-forward="false" selection-start-line="624" selection-start-column="19" selection-end-line="624" selection-end-column="19" />
+          <caret line="624" column="15" lean-forward="false" selection-start-line="624" selection-start-column="15" selection-end-line="624" selection-end-column="15" />
           <folding />
         </state>
       </provider>

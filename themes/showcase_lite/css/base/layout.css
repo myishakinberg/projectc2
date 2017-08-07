@@ -619,10 +619,10 @@
 .image_description .content { /*makes the hair type and picture flex*/
   display:flex;
 }
-.image_description .content .field--name-field-image { /*puts padding and sets min width for pics*/
+.image_description .content .field--name-field-image, .image-style-medium { /*puts padding and sets min width for pics*/
   padding-right: 10px;
   min-width: 150px;
-  min-height:150px;
+  min-height:120px;
 }
 .image_description .content .field--name-field-image .field__item { /*hides all hair type pics*/
   display: none;
