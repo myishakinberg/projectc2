@@ -622,6 +622,7 @@
 .image_description .content .field--name-field-image { /*puts padding and sets min width for pics*/
   padding-right: 10px;
   min-width: 150px;
+  min-height:150px;
 }
 .image_description .content .field--name-field-image .field__item { /*hides all hair type pics*/
   display: none;
@@ -629,7 +630,7 @@
 .image_description .content .field--name-field-image .field__item:first-child { /*displays first pic*/
   display: block;
 }
-.image_description .content .field--name-field-image .field__item:first-child:hover {/*changes color on hover*/
+.image_description .content .field--name-field-image .field__item:first-child:hover, .field--name-field-cpictures .field__item:hover {/*changes color on hover*/
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
