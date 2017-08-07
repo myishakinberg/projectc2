@@ -537,7 +537,7 @@
 }
 
 
-/*CHANGES ARROW STUFF FOR SLIDESHOW AND SLICK FIELDS*/
+/*CHANGES STUFF FOR SLIDESHOW AND SLICK FIELDS*/
 
 .slick__arrow{ /*changes the location of carousel prev and next arrows*/
   text-align: center;
@@ -553,6 +553,16 @@
   filter: alpha(opacity=50);
 }
 
+.slick--optionset--hair-type .slide__content .media__image{/*makes front page pics appear the correct size*/
+  min-height: 300px;
+  min-width: 375px;
+}
+
+.slick--optionset--hair-care-carousel .media__image{ /*styles hair care carousel */
+  min-width: 200px;
+  min-height:240px;
+  padding-left: 15px;
+}
 
 /*CHANGES STUFF RELATED TO MAP AND NOTIFY BUTTON*/
 
@@ -636,18 +646,12 @@
 }
 
 
-/*CHANGES SLIDESHOW ON FRONT PAGE*/
-
-.slick--optionset--hair-type .slide__content .media__image{/*makes front page pics appear the correct size*/
-  min-height: 300px;
-  min-width: 375px;
-}
-
 
 /*CHANGES STUFF ON BLOG PAGE */
 .field--name-field-blog- .field__item a:hover, .field--name-field-blog-links- .field__item a:hover{
-  color: purple;
-  font-size: 16px;
+  color: #9073b5;
+  font-size: 17px;
+  font-weight: bold;
 }
 .field--name-field-blogs .field__items{ /*changes blog layout for*/
   display: flex;
@@ -689,14 +693,17 @@
   box-shadow: -5px 5px 15px #4f4f4f;
 }
 
-/*MISSING DESCRIPTION */
-
-.media__image{
+.media__image{ /*changes images on front page*/
   height: 120px;
   width: 65%;
   display: block;
   margin: auto;
 }
+
+
+/*MISSING DESCRIPTION */
+
+
 .hair-embed{
   display: flex;
   flex-wrap:wrap;
