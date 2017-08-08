@@ -646,8 +646,17 @@
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
-
-
+.porosity_description .content {
+  display:flex;
+}
+.porosity_description .content .field--name-field-image, .image-style-thumbnail{ /*puts padding and sets min width for pics*/
+  padding-right: 10px;
+  min-width: 110px;
+  min-height:110px;
+}
+#block-understandhairporosity .field--name-body {
+  margin-bottom: -70px;
+}
 
 /*CHANGES STUFF ON BLOG PAGE */
 .field--name-field-blog- .field__item a:hover, .field--name-field-blog-links- .field__item a:hover{
@@ -670,7 +679,12 @@
 /*RANDOM SMALL CHANGES*/
 #block-allthingshair-2 .field--name-body .field__item { /*displays pages in flex*/
   display:flex;
+  padding-top: 30px;
   margin-bottom: -75px;
+}
+#block-allthingshair-2 .field--name-body .field__item a:hover { /*changes color on hover*/
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 .field--name-body .align-left {
   padding-right: 20px;
@@ -703,7 +717,7 @@
 }
 .carousel_test_{ /*adds padding and border to hair picture carousel*/
   padding-right: 20px;
-  margin-bottom:10px;
+  padding-top: 30px;
   border-style: double;
 
 }
