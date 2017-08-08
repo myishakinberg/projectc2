@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1507_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-07/IMG_1511_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1507_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_/public/2017-07/IMG_1511_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/IMG_1507_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/hair_carousle_size_2_/public/2017-07/IMG_1511_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1507_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-07/IMG_1511_0.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +25,8 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="651" column="16" lean-forward="false" selection-start-line="651" selection-start-column="16" selection-end-line="651" selection-end-column="16" />
+            <state relative-caret-position="7429">
+              <caret line="562" column="4" lean-forward="true" selection-start-line="562" selection-start-column="4" selection-end-line="562" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -379,15 +386,15 @@
       <workItem from="1501520018526" duration="14270000" />
       <workItem from="1501694603542" duration="1156000" />
       <workItem from="1501712573547" duration="3355000" />
-      <workItem from="1502124440157" duration="2506000" />
+      <workItem from="1502124440157" duration="2885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87372000" />
+    <option name="totallyTimeSpent" value="87751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1277" height="797" extended-state="0" />
+    <frame x="35" y="23" width="1277" height="797" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18637432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -815,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="651" column="16" lean-forward="false" selection-start-line="651" selection-start-column="16" selection-end-line="651" selection-end-column="16" />
+        <state relative-caret-position="7429">
+          <caret line="562" column="4" lean-forward="true" selection-start-line="562" selection-start-column="4" selection-end-line="562" selection-end-column="4" />
           <folding />
         </state>
       </provider>
