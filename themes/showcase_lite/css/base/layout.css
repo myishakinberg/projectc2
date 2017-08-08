@@ -561,8 +561,10 @@
 .slick--optionset--hair-care-carousel .media__image{ /*styles hair care carousel */
   min-width: 200px;
   min-height:240px;
-  padding-left: 15px;
+  padding-left: 7px;
+  padding-right: 7px;
 }
+
 
 /*CHANGES STUFF RELATED TO MAP AND NOTIFY BUTTON*/
 
@@ -699,8 +701,19 @@
   display: block;
   margin: auto;
 }
+.carousel_test_{ /*adds padding and border to hair picture carousel*/
+  padding-right: 20px;
+  margin-bottom:10px;
+  border-style: double;
 
-
+}
+.block.block-views-blockdonation-center-map-block-1,
+.region .block.block-views-blockdonation-center-map-block-1:last-child { /*adds padding and border to map*/
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-style: double;
+}
 /*MISSING DESCRIPTION */
 
 
