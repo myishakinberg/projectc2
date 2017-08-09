@@ -760,9 +760,15 @@ $settings['file_scan_ignore_directories'] = [
  * Keep this code block at the end of this file to take full effect.
  */
 #
-if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
-    include $app_root . '/' . $site_path . '/settings.local.php';
-}
+if (defined('CLEARDB_DATABASE_URL')) {
+    if (file_exists($app_root . '/' . $site_path . '/settings.heroku.php')) {
+        include $app_root . '/' . $site_path . '/settings.heroku.php';
+    }}
+else {
+    if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
+        include $app_root . '/' . $site_path . '/settings.local.php';
+    }}
+
 
 $settings['install_profile'] = 'standard';
 $config_directories['sync'] = 'sites/default/files/config_2dHCuRGAf1NoBx2EnMcXfkCwziJiC1ISn3G2AwEnbxZscqR8i1Aj0EfMW8StBsqShX6r4FHQvA/sync';
