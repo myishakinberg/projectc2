@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/settings.php" afterPath="$PROJECT_DIR$/sites/default/settings.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="762" column="4" lean-forward="true" selection-start-line="762" selection-start-column="4" selection-end-line="762" selection-end-column="4" />
+            <state relative-caret-position="361">
+              <caret line="757" column="13" lean-forward="true" selection-start-line="757" selection-start-column="13" selection-end-line="757" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -56,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.heroku.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.heroku.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/default/settings.heroku.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -420,12 +419,12 @@
       <workItem from="1501712573547" duration="3355000" />
       <workItem from="1502124440157" duration="2970000" />
       <workItem from="1502211404426" duration="4398000" />
-      <workItem from="1502294392930" duration="2525000" />
+      <workItem from="1502294392930" duration="2894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94759000" />
+    <option name="totallyTimeSpent" value="95128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="46" width="1277" height="797" extended-state="0" />
@@ -836,6 +835,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="757" column="13" lean-forward="true" selection-start-line="757" selection-start-column="13" selection-end-line="757" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -848,22 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="762" column="4" lean-forward="true" selection-start-line="762" selection-start-column="4" selection-end-line="762" selection-end-column="4" />
           <folding />
         </state>
       </provider>
