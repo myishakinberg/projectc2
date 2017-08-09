@@ -555,7 +555,7 @@
 
 .slick--optionset--hair-type .slide__content .media__image{/*makes front page pics appear the correct size*/
   min-height: 300px;
-  min-width: 375px;
+  min-width: 400px;
 }
 
 .slick--optionset--hair-care-carousel .media__image{ /*styles hair care carousel */
