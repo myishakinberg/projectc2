@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/settings.heroku.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/settings.local.php" afterPath="$PROJECT_DIR$/sites/default/settings.local.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/settings.php" afterPath="$PROJECT_DIR$/sites/default/settings.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -413,12 +409,12 @@
       <workItem from="1502124440157" duration="2970000" />
       <workItem from="1502211404426" duration="4398000" />
       <workItem from="1502294392930" duration="4281000" />
-      <workItem from="1502322817753" duration="242000" />
+      <workItem from="1502322817753" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96757000" />
+    <option name="totallyTimeSpent" value="97511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="23" width="1277" height="797" extended-state="0" />
@@ -854,7 +850,7 @@
     <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
