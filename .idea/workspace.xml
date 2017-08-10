@@ -2,10 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/2017-08/Amani-laugh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/private/styles/medium/private/2017-08/Amani-laugh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-VUn-5vCJZbIhOaDmUz7XFXXFKcVj5ZN9fD3Aaw9GXE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-VUn-5vCJZbIhOaDmUz7XFXXFKcVj5ZN9fD3Aaw9GXE.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1_rrYLUVFifSzdIIQwUyUaXql_z2LSAXJt53Jeu_z1o.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1_rrYLUVFifSzdIIQwUyUaXql_z2LSAXJt53Jeu_z1o.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DSG2tLhsJ8bIFmQgWXfwrfff2oyE9BSleR_T3H3LMYk.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DSG2tLhsJ8bIFmQgWXfwrfff2oyE9BSleR_T3H3LMYk.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GSOFS9Xgeo9fqcatYyLWQdALcug5OkFErTQioEitFk4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GSOFS9Xgeo9fqcatYyLWQdALcug5OkFErTQioEitFk4.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sr-zrzbdX7e1D5RQ_QtqOK_J8ztT5TgNbD9A14dx0Pw.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sr-zrzbdX7e1D5RQ_QtqOK_J8ztT5TgNbD9A14dx0Pw.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_U8EnHFSiPS0WOiQ73z5KRQoY7xocsGaohWH-xX3N50s.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_U8EnHFSiPS0WOiQ73z5KRQoY7xocsGaohWH-xX3N50s.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_X9b8moVQvzoyB7wylSukalvm-ibdSiEN_KL6WjPm_60.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_X9b8moVQvzoyB7wylSukalvm-ibdSiEN_KL6WjPm_60.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_a4jWBY-mFMITaJACM8GNQqqm0BQguWj_wKpWfj-9Qqo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_a4jWBY-mFMITaJACM8GNQqqm0BQguWj_wKpWfj-9Qqo.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_neSin1CJTT3Sl4gE6TTeAA6rwmwvex0iyuesLWgLR30.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_neSin1CJTT3Sl4gE6TTeAA6rwmwvex0iyuesLWgLR30.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_nuAOgxCwKgXfVbqg4-Mp2-eusd6PJxlp4mPdmaqb-WY.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_nuAOgxCwKgXfVbqg4-Mp2-eusd6PJxlp4mPdmaqb-WY.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_pQJDd7-OgqtzmvwH9-2Lz3qhlZDYP_b4gxnfPfXkttc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_pQJDd7-OgqtzmvwH9-2Lz3qhlZDYP_b4gxnfPfXkttc.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_vlBZGqtxYMyEPr3cGbMl2rQ8W9TkcUkVzKhFPbL_ANg.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_vlBZGqtxYMyEPr3cGbMl2rQ8W9TkcUkVzKhFPbL_ANg.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_wF3QpwpMwn-P3VeOf_ObIrHLpEcbHGH_8S2IjyUC0VU.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_wF3QpwpMwn-P3VeOf_ObIrHLpEcbHGH_8S2IjyUC0VU.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_DdXIKt68jGany_F78Mxy_6Rv5aLF94bA6_npMbGnkV4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_DdXIKt68jGany_F78Mxy_6Rv5aLF94bA6_npMbGnkV4.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_GJRj16GjyPNMvWyrc5LattN-qTD5HesJz4bDJsZnV6U.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_GJRj16GjyPNMvWyrc5LattN-qTD5HesJz4bDJsZnV6U.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_HtX8dOCsKxNc_kHcHKiskntXLs-k-W2FxijtP-mXRGk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_HtX8dOCsKxNc_kHcHKiskntXLs-k-W2FxijtP-mXRGk.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_IihbmBMAavUXZc0nHv4ztmudLrBM2wREUNCmFzUVDG4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_IihbmBMAavUXZc0nHv4ztmudLrBM2wREUNCmFzUVDG4.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_SBVScmaeXEWq2O7NlBhkm5Do5iYbevwtYytXsnjgGmQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_SBVScmaeXEWq2O7NlBhkm5Do5iYbevwtYytXsnjgGmQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_a4LY5Z1W9FXD04iH4QmF825hpgX-Yey8vyHP6hxkXEk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_a4LY5Z1W9FXD04iH4QmF825hpgX-Yey8vyHP6hxkXEk.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dtHfePrtNJJEWu1y4kYOmPFlmvpbiFndtuH06yZVmWI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dtHfePrtNJJEWu1y4kYOmPFlmvpbiFndtuH06yZVmWI.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_mAktEqrfPrGDpRvOQ-Y9Qk_QDOsufNE48Hf9VC5vq8o.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_mAktEqrfPrGDpRvOQ-Y9Qk_QDOsufNE48Hf9VC5vq8o.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vAbGTxZsfbuZc9nPA1DkHWc9CiYlzc3v3Si40BHVBLY.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vAbGTxZsfbuZc9nPA1DkHWc9CiYlzc3v3Si40BHVBLY.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_yskNjpW78Oq2XA5HIyb98de6hHfUSYK8yPWjXDNP1gY.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_yskNjpW78Oq2XA5HIyb98de6hHfUSYK8yPWjXDNP1gY.js.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +70,8 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="734" column="0" lean-forward="true" selection-start-line="734" selection-start-column="0" selection-end-line="734" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="573" column="71" lean-forward="false" selection-start-line="573" selection-start-column="71" selection-end-line="573" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -202,8 +251,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="258" />
-    <option name="y" value="51" />
+    <option name="x" value="163" />
+    <option name="y" value="26" />
     <option name="width" value="1277" />
     <option name="height" value="797" />
   </component>
@@ -225,7 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -273,6 +321,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,14 +465,15 @@
       <workItem from="1502322817753" duration="996000" />
       <workItem from="1502339670388" duration="214000" />
       <workItem from="1502388345451" duration="1751000" />
+      <workItem from="1502397131414" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99476000" />
+    <option name="totallyTimeSpent" value="99515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="51" width="1277" height="797" extended-state="0" />
+    <frame x="163" y="26" width="1277" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18637432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -848,8 +898,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="734" column="0" lean-forward="true" selection-start-line="734" selection-start-column="0" selection-end-line="734" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="573" column="71" lean-forward="false" selection-start-line="573" selection-start-column="71" selection-end-line="573" selection-end-column="71" />
           <folding />
         </state>
       </provider>

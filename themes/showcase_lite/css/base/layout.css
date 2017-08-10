@@ -571,10 +571,7 @@
 .pager{ /*hides the next and previous button on map */
   display:none;
 }
-.views-field-field-name { /*hides name from map popup*/
-  display:none;
-}
-.views-field-field-lat-lon{ /*hides lat/lon from map popup*/
+.views-field-field-name, .views-field-title, .views-field-field-lat-lon { /*hides name from map popup*/
   display:none;
 }
 .views-field-field-website a{ /*changes color of website on map to look like hyper link*/
