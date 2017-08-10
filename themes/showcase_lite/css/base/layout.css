@@ -618,7 +618,9 @@
   flex-wrap:wrap;
 }
 .field--name-field-caption .field__item{ /*helps captions float in correct area*/
-  padding-left: 100px;
+  text-align: center;
+  width: 180px;
+  padding-left:30px;
 }
 .field--name-field-caption .field__item:hover { /*allows text below hair chart to switch colors and become bold when hovered on */
   color: purple;
@@ -719,6 +721,8 @@
   padding-right: 20px;
   padding-top: 30px;
   border-style: double;
+  margin-bottom: 10px;
+
 
 }
 .block.block-views-blockdonation-center-map-block-1,
@@ -728,6 +732,7 @@
   padding-bottom: 10px;
   border-style: double;
 }
+
 /*MISSING DESCRIPTION */
 
 
