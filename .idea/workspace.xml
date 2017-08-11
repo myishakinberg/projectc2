@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79106f87-b7bd-4a6c-9222-1c6ffe6348af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Cg7GkefjqGs7Mf-uzoxYxgtfR2c5041WdecLeHm_C3c.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Cg7GkefjqGs7Mf-uzoxYxgtfR2c5041WdecLeHm_C3c.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_IfVzNbop49Sb-BqJ2qzBrt3G9-RztyGGPAxd5d9klQ0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_IfVzNbop49Sb-BqJ2qzBrt3G9-RztyGGPAxd5d9klQ0.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Kk8hGyKCv3NP9lwvO0fQ1czmV1N5yUXDTlcU_ZRi-WA.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Kk8hGyKCv3NP9lwvO0fQ1czmV1N5yUXDTlcU_ZRi-WA.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_lwkCZn-2rB9O0_UF2Z1qhso7uIhTDAxf_ksKY-9TekI.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_lwkCZn-2rB9O0_UF2Z1qhso7uIhTDAxf_ksKY-9TekI.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_olk-1WBig8cQRcY5nn1oT1NTeaiE4b-dFD5C0Bperuc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_olk-1WBig8cQRcY5nn1oT1NTeaiE4b-dFD5C0Bperuc.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_N4Zje57Uk-R__PZaPSb_qz75Jzr56610j07lDNFg6aM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_N4Zje57Uk-R__PZaPSb_qz75Jzr56610j07lDNFg6aM.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_czHeCPFAvmfAphLMfNml6NUhawwI-bZzvopUV3lTR8k.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_czHeCPFAvmfAphLMfNml6NUhawwI-bZzvopUV3lTR8k.js.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/mink" afterPath="$PROJECT_DIR$/vendor/behat/mink" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" afterPath="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml" afterPath="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +17,61 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="573" column="71" lean-forward="false" selection-start-line="573" selection-start-column="71" selection-end-line="573" selection-end-column="71" />
+            <state relative-caret-position="510">
+              <caret line="774" column="17" lean-forward="true" selection-start-line="774" selection-start-column="17" selection-end-line="774" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showcase_lite.libraries.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/main-menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/custom/popup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smooth-scroll.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/custom/smooth-scroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu--main.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/menu--main.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -58,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.local.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.local.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,36 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maintenance-page.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/maintenance-page.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="110" lean-forward="false" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="block.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/block.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="showcase_lite.theme" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/showcase_lite/showcase_lite.theme">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11190">
-              <caret line="746" column="37" lean-forward="false" selection-start-line="746" selection-start-column="37" selection-end-line="746" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -119,11 +128,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>magnificpop</find>
-      <find>showcase_</find>
-      <find>i</find>
-      <find>iframe</find>
-      <find>inlin</find>
       <find>inl</find>
       <find>load</find>
       <find>start</find>
@@ -143,12 +147,17 @@
       <find>slick</find>
       <find>display</find>
       <find>log</find>
-      <find>logo</find>
       <find>car</find>
       <find>flex</find>
       <find>hero</find>
       <find>bin</find>
       <find>min-width</find>
+      <find>menu</find>
+      <find>logo</find>
+      <find>sho</find>
+      <find>showcase_lite</find>
+      <find>background</find>
+      <find>background-image</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/modules</dir>
@@ -179,7 +188,6 @@
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/custom_map.php" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/custom_map.css" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/custom_map.libararies.yml" />
-        <option value="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/custom_map.libraries.yml" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/custom_map.info.yml" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_map/css/custom_map.css" />
@@ -193,8 +201,12 @@
         <option value="$PROJECT_DIR$/core/composer.json" />
         <option value="$PROJECT_DIR$/sites/default/settings.heroku.php" />
         <option value="$PROJECT_DIR$/sites/default/settings.php" />
-        <option value="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
         <option value="$PROJECT_DIR$/sites/default/settings.local.php" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/templates/menu--main.html.twig" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/js/custom/main-menu.js" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/js/main-menu.js" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css" />
       </list>
     </option>
   </component>
@@ -212,8 +224,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="26" />
+    <option name="x" value="220" />
+    <option name="y" value="103" />
     <option name="width" value="1277" />
     <option name="height" value="797" />
   </component>
@@ -235,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,11 +269,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,12 +283,53 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="showcase_lite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="showcase_lite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -301,7 +349,12 @@
     <property name="node.js.selected.package.jscs" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/showcase_lite/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/showcase_lite/js" />
+      <recent name="$PROJECT_DIR$/themes/showcase_lite/js/custom" />
       <recent name="$PROJECT_DIR$/sites/all/modules/custom_map/js" />
       <recent name="$PROJECT_DIR$/sites/all/modules/custom_map/css" />
     </key>
@@ -427,17 +480,18 @@
       <workItem from="1502339670388" duration="214000" />
       <workItem from="1502388345451" duration="1751000" />
       <workItem from="1502397131414" duration="972000" />
+      <workItem from="1502480696014" duration="9173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100448000" />
+    <option name="totallyTimeSpent" value="109621000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="26" width="1277" height="797" extended-state="0" />
+    <frame x="220" y="103" width="1277" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18637432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2505873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -502,42 +556,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/video_embed_field/css/video_embed_field.responsive-video.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/url_embed/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="182" lean-forward="false" selection-start-line="23" selection-start-column="182" selection-end-line="23" selection-end-column="182" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/drush/8.1.11/libexec/drush.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/url_embed/src/Plugin/Filter/UrlEmbedFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <marker date="1500503128000" expanded="true" signature="2960:3116" ph="..." />
-            <marker date="1500503128000" expanded="true" signature="2982:2986" ph="&lt;" />
-            <marker date="1500503128000" expanded="true" signature="3087:3091" ph="&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/url_embed/src/Form/UrlEmbedDialog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -617,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/custom/popup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-963">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/colorbox_load/js/colorbox_load.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -664,13 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="113" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -849,18 +853,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="573" column="71" lean-forward="false" selection-start-line="573" selection-start-column="71" selection-end-line="573" selection-end-column="71" />
+        <state relative-caret-position="30">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
+    <entry file="file://$PROJECT_DIR$/core/themes/classy/templates/navigation/menu.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/custom/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/custom/smooth-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/templates/menu--main.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/js/main-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/showcase_lite.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/showcase_lite/css/base/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="774" column="17" lean-forward="true" selection-start-line="774" selection-start-column="17" selection-end-line="774" selection-end-column="17" />
           <folding />
         </state>
       </provider>
