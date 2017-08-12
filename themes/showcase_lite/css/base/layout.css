@@ -733,7 +733,10 @@
   border-style: double;
   margin-bottom: 10px;
 }
-@media (max-width:768px) {
+
+
+/*Media Queries*/
+@media (max-width:766px) {
   .menu--main .menu-item:nth-child(1), .menu--main .menu-item:nth-child(2), .menu--main .menu-item:nth-child(3) {
     border-right: none;
     text-align: center;
@@ -755,7 +758,7 @@
     margin-top:-80px
   }
 }
-@media(max-width:768px) { /*changes background size for mobile*/
+@media(width:375px) { /*changes background size for mobile*/
   .content-top-highlighted {
     background-size: contain;
     height:100%;
@@ -768,6 +771,66 @@
     margin-top:-100px;
     font-size: 17px;
     text-shadow: none;
+  }
+}
+@media(width:425px) { /*changes background size for mobile*/
+  .content-top-highlighted {
+    background-size: contain;
+    height:100%;
+    background-repeat: no-repeat;
+    background-image: url("/images/group-background.jpg");
+  }
+  #block-projectcurls .field__item{
+    text-align: center;
+    width:100%;
+    margin-top:-100px;
+    font-size: 17px;
+    text-shadow: none;
+  }
+}
+
+@media(width:768px){
+  .content-top-highlighted {
+    background-image: url("/images/group-background.jpg");
+    width:100%;
+    height:300px;
+  }
+  #block-projectcurls .field__item{
+    text-align: center;
+    width:100%;
+    margin-top:-100px;
+    font-size: 17px;
+    text-shadow: none;
+  }
+  .menu--main .menu-item:nth-child(1), .menu--main .menu-item:nth-child(2), .menu--main .menu-item:nth-child(3) {
+    border-right: none;
+    text-align: center;
+    width: 100%;
+  }
+  .header__container{ /*makes containers smaller*/
+    height:100px;
+  }
+  .menu--main{ /*moves menu closer to top*/
+    margin-top:-80px
+  }
+}
+@media(width:320px){
+  .content-top-highlighted {
+    width:100%;
+    height:200px;
+  }
+  #block-projectcurls .field__item{
+    text-align: center;
+    width:100%;
+    margin-top:-90px;
+    font-size: 17px;
+    text-shadow: none;
+  }
+  .header__container{ /*makes containers smaller*/
+    height:120px;
+  }
+  #block-frontpagepics .content{
+    display: none;
   }
 }
   /*.mobile-menu {
